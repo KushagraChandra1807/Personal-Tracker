@@ -57,7 +57,7 @@ A full-stack habit and challenge tracker to help users build momentum, boost pro
 
 4. **Run the App**
    ```bash
-   cd server && npm run dev
+   cd server && npm start
    cd ../client && npm start
    ```
 

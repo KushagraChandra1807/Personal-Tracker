@@ -1,0 +1,22 @@
+.App {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+}
+
+input[type='text'] {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+button {
+  margin: 5px;
+  padding: 8px 12px;
+}

@@ -1,4 +1,4 @@
-You got it, Kushagra. Here's a polished `README.md` you can copy and paste directly into your repo:
+
 
 ```markdown
 # 🌟 Personal Tracker
